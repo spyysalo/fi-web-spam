@@ -1,0 +1,18 @@
+ISO 9126
+ISO 9126 on kansainvälinen ISO-standardi ohjelmistojen laadun evaluointiin .
+Standardin tavoitteena on määritellä yhdenmukaiset mittaustavat ohjelmistojen laatuvaatimuksille .
+Standardia tarvitaan , koska usein erilaiset laatuun liitetyt termit , kuten esimerkiksi ylläpidettävyys , voidaan ymmärtää hyvin eri tavoin eri ihmisten keskuudessa .
+Ohjelmiston laatu vaikuttaa useisiin eri osapuoliin .
+ISO 9216 pyrkii ottamaan ohjelmiston laadussa useita erilaisia näkökulmia huomioon .
+Jaottelua tehdään esimerkiksi sen suhteen , onko kyseessä ohjelmiston loppukäyttäjä , ohjelmiston kehittäjä vaiko erillinen ohjelmiston laadun evaluoija .
+ISO 9216 -standardin lisäksi on olemassa ISO 14598 -standardi , joka määrittelee prosessit , joita tulisi seurata kun ISO 9216:n määrittelemiä kriteereitä mitataan .
+Standardi on organisoitu neljään osaan :
+Laatumalli , ISO 9126-1 , on standardin ensimmäinen osa .
+Laatumalli jaottelee
+ohjelmiston laadukkuutta mittaavat kriteerit seuraavasti :
+Sisäiset mittaustavat sisältävät mittaustavat , jotka eivät vaadi ohjelmiston ajamista ( staattiset mittaukset ) .
+Ulkoiset mittaustavat sisältävät mittaukset , jotka tehdään ohjelmiston suorituksen aikana .
+Käytön laatua voidaan alkaa mittaamaan kun ohjelmisto on valmis sekä lopullisessa käyttöympäristössään .
+Ideaalitilanteessa ohjelmiston sisäinen laatu määrittää ulkoisen laadun , ja ulkoinen laatu puolestaan laadun ohjelmiston käytössä .
+Käytön laatua mittaava standardi pohjautuu ohjelmiston laatua mittaavaan http://satc.gsfc.nasa.gov/support/STC_APR96/qualtiy/stc_qual.html , jonka McCall sekä hänen kollegansa kehittivät vuonna 1977 .
+McCallin laatumalli on organisoitu kolmen tyyppisten laatukarakterisointien ympärille .

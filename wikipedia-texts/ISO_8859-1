@@ -1,0 +1,30 @@
+ISO 8859-1
+ISO 8859-1 tai epävirallisesti Latin 1 on tietokoneissa ja tietoliikenteessä käytettävä merkistö , joka on laadittu erityisesti länsieurooppalaisia kieliä silmällä pitäen .
+Se on ensimmäinen ja suomalaisittainkin käytännössä tärkein ISO- ja IEC-järjestöjen virallistamista kieliryhmittäisistä 8859-sarjan merkistöstandardeista .
+Latin 1 toimii esimerkiksi nettisivujen oletusmerkistönä , jos käytettävää merkistöä ei ole muutoin määritetty .
+ISO 8859-1 on 8-bittinen eli kaikkiaan 256 merkkipaikasta koostuva merkistö , joka voidaan määritellä 7-bittisen ASCII-merkistön laajennukseksi .
+ASCIIta vastaavat 128 ensimmäistä merkkipaikkaa sisältävät ensisijaisesti amerikanenglannissa tarvittavia kirjoitusmerkkejä sekä eräitä teknisiä ohjauskoodeja .
+Tähän merkkivalikoimaan ISO 8859-1 lisää etenkin länsieurooppalaisissa kielissä tarvittavia kirjaimia , kuten Å/å:n , Ä/ä:n ja Ö/ö:n .
+Lisäksi ISO 8859-1:een on varattu tilaa ohjauskoodien laajennuksille , jotka standardi tosin jättää määrittämättä .
+Joskus ISO 8859-1 sekoitetaan Windows-1252:een eli niin sanottuun Windows Latin 1 ‑merkistöön , jossa käyttämättömille ohjauskoodien merkkipaikoille on sijoitettu vielä lisää kirjoitusmerkkejä .
+Yleismaailmallinen Unicode-merkistö voidaan määritellä sekä ASCIIn että ISO 8859-1:n laajennukseksi , sillä Unicoden ensimmäinen lohko eli latinalainen perusosa vastaa ASCIIta , ja ISO 8859-1:n lisäyksistä muodostuu toinen lohko eli latinalaisen merkistön täydennys Latin 1:ksi .
+ISO 8859-1 ‑merkistön korvaajaksi on myöhemmin kehitetty ISO 8859-15 ( Latin 9 ) , joka täydentää ranskan ja suomen tukea ( mm. kirjaimin Š/š ja Ž/ž ) ja sisältää myös euron merkin .
+Korvaava merkistö ei ole kuitenkaan onnistunut laajassa mitassa syrjäyttämään edeltäjäänsä .
+Sen sijaan kaikkien ISO 8859 ‑sarjan standardien odotetaan ajan myötä korvautuvan Unicode-merkistöllä .
+Merkistön virallinen nimi on ISO/IEC 8859-1 , sillä sitä ylläpitävät yhteistyössä ISO- ja IEC-standardointijärjestöt .
+IANA:n standardoinnissa merkistöstä käytetään nimeä ISO-8859-1 ( jossa ISO-nimen ja numeerisen tunnuksen väliin on siis lisätty yhdysviiva ) .
+IANA määrittelee myös ohjauskoodit 00–1F ja 80–9F , joihin ISO ei ota kantaa .
+ISO 8859-1 perustuu DEC Multilanguage Character Set -merkistöön , jota käytettiin ensimmäisen kerran DEC:n VT220- ja VT240-päätteissä vuonna 1982 .
+DEC:n merkistö eroaa ISO 8859-1 -merkistöstä islantilaisten merkkien osalta .
+Maaliskuussa 1985 ECMA ( European Computer Manufacturer’s Association ) standardoi nykyisin nimillä ISO 8859-1:stä ISO 8859-4:aan tunnettavat merkistöt nimellä ECMA-94 .
+ISO-standardiksi ne hyväksyttiin kuitenkin vasta vuonna 1987 .
+Vuonna 1987 julkaistiin MS-DOS 3.30 , johon sisältyvä merkistö ( tai Microsoftin termistön mukaan koodisivu , ) CP850 sisältää samat merkit kuin ISO 8859-1 , mutta eri järjestyksessä .
+PC-laitteissa ISO-merkistöä muistuttava koodisivu Windows-1252 tuli käyttöön lopulta Windows-ympäristön myötä 1990-luvulla .
+Unix-järjestelmissä siirtymistä hidasti päätelaitteiden kirjavuus , ja kattavaan 8-bittisen merkistön käyttöön päästiin vasta , kun vanhat päätteet korvattiin itsenäisillä työasemakoneilla ja pääasialliseksi yhteydeksi tuli IP-verkoston kautta toimiva telnet- tai ssh-yhteys .
+Yllä olevassa taulukossa merkit on järjestetty heksadesimaalisena esitettävän lukuarvonsa mukaisesti .
+Merkki 20 ( codice_1 , ) on tavallinen välilyönti ja A0 ( codice_2 , ) sitova välilyönti .
+Merkki AD ( codice_3 , ) on määritelty HTML-kielessä tavutusvihjeeksi , joka on tavallisesti näkymätön mutta mahdollistaa rivinvaihdon ja sen yhteydessä muuttuu näkyväksi tavuviivaksi .
+Merkkiä 7F ei ole ISO 8859-1 -merkistössä määritelty , mutta ASCII-merkistössä se on ohjauskoodi DEL , jota on eri tietokonejärjestelmissä käytetty vaihtelevasti ( vaikka ohjauskoodin nimi tulee englannin sanasta " delete " ’ poista ’ , se ei nykynäppäimistöissä kytkeydy " Delete " -näppäimeen ) .
+ISO 8859-1 -merkistön avulla voi kirjoittaa albanian , baskin , englannin , espanjan , fäärin , gaelin , hollannin , iirin , islannin , italian , katalaanin , norjan , portugalin , ranskan , retoromaanin , ruotsin , saksan , suomen ja tanskan kieliä ( vaikka ei näistä kaikkia aivan puhdasoppisesti ) .
+Lisäksi sitä voi käyttää ainakin afrikaansin , eteläsaamen ja swahilin kirjoittamiseen .
+ISO 8859-1:stä puuttuu eräitä verrattain yleisiä typografisia erikoismerkkejä , kuten kaareva lainaus- ja heittomerkki sekä ajatusviiva .

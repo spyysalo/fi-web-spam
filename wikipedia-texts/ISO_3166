@@ -1,0 +1,13 @@
+ISO 3166
+ISO 3166 on ISO-järjestön standardi , joka määrittää kansainvälisesti käytettävät koodit valtioille ja eräille muille alueille .
+Standardi koostuu kolmesta osasta , joista ensimmäinen käsittelee maakoodeja , toinen valtioiden osa-alueiden koodeja ja kolmas vanhentuneiden koodien korvaamista .
+ISO 3166-1 sisältää valtioiden ja niihin verrattavien alueiden kaksikirjaimiset , kolmikirjaimiset ja numeeriset koodit .
+Kaksikirjaimisia koodeja käytetään muun muassa Internetin maakohtaisissa ylätason verkkotunnuksissa ( eli niin sanotuissa domain-nimissä ) .
+Esimerkiksi suomalaisten varattavissa on .fi-loppuisia osoitteita .
+Valtio tai alue saa standardiin koodin , jos se on listattuna Yhdistyneiden kansakuntien julkaisussa " United Nations Terminology Bulletin Country Names "
+tai YK:n tilastotoimiston julkaisussa " Country and Region Codes for Statistical Use " .
+Tullakseen listatuksi julkaisussa " Country Names " valtion pitää olla YK:n jäsen , jonkin YK:n erityisjärjestön jäsen tai osallistua
+Kansainvälisen tuomioistuimen toimintaan tuomioistuimen perussäännön mukaisesti .
+ISO 3166-2 sisältää valtioiden ensimmäisen aluehallintotason osa-alueiden koodit .
+Niiden alkuosana on kaksikirjaiminen ISO 3166-1 -maakoodi , jota seuraa yhdysviiva ja kirjaimista tai numeroista koostuva aluetunnus .
+ISO 3166-3 käsittelee käytöstä poistettujen ja toisessa merkityksessä uudelleen käyttöön otettujen kaksikirjaimisten ISO 3166-1 -maakoodien korvaamista silloin , kun niiden aiemmin tarkoittamaan alueeseen joudutaan nykyisin viittaamaan .
